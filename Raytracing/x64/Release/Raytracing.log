@@ -1,0 +1,35 @@
+﻿  PerfectSpecular.cpp
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(211): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(277): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\raytracing\src\brdf\..\Util\Util.h(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Phong.cpp
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(211): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(277): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\raytracing\src\materials\..\Util\Util.h(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ReflectMaterial.cpp
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(211): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(277): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PresentationScene.cpp
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(211): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(277): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(285): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\dep\rtmath\include\Math\RTquaternion.h(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\c++\raytracing\raytracing\src\scenes\..\Util\Util.h(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  18 of 683 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+RTmath.lib(RTvec3.obj) : warning LNK4099: PDB 'RTmath.pdb' was not found with 'RTmath.lib(RTvec3.obj)' or at 'D:\C++\Raytracing\x64\Release\RTmath.pdb'; linking object as if no debug info
+RTmath.lib(RTvec2.obj) : warning LNK4099: PDB 'RTmath.pdb' was not found with 'RTmath.lib(RTvec2.obj)' or at 'D:\C++\Raytracing\x64\Release\RTmath.pdb'; linking object as if no debug info
+  Raytracing.vcxproj -> D:\C++\Raytracing\x64\Release\Raytracing.exe
